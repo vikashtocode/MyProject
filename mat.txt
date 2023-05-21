@@ -1,0 +1,1 @@
+this is a simple commmand mat.txt
